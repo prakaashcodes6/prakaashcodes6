@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 I'm a driven Product Manager with a passion for turning ideas into impactful, user-centered products. With experience on projects like Yady, a home service app, and HomeKrew, a platform connecting tenants with maintenance services, I specialize in guiding outsourced development teams and managing the product lifecycle 🌟. My interests in generative AI, LLMs, and artificial intelligence keep me at the forefront of innovation, always seeking to integrate cutting-edge technology.
